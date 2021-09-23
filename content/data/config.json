@@ -152,5 +152,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://rc-website-cb0b2.netlify.app"
 }
